@@ -1,14 +1,8 @@
 package 
 {
-	import flash.display.MovieClip;
+	import flash.display.Sprite;
 	
-	/**
-	 * ...
-	 * @author SurReal Games
-	 */
-	public class Items extends MovieClip 
-	{	
-		
+	
+	public class Items extends Sprite{
 	}
-	
 }
