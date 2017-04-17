@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <project version="2">
   <!-- Output SWF options -->
   <output>
@@ -11,7 +11,7 @@
     <movie version="21" />
     <movie minorVersion="0" />
     <movie platform="Flash Player" />
-    <movie background="#000000" />
+    <movie background="#1E2225" />
   </output>
   <!-- Other classes to be compiled into your SWF -->
   <classpaths>
@@ -85,7 +85,7 @@
   <!-- Other project options -->
   <options>
     <option showHiddenPaths="False" />
-    <option testMovie="NewWindow" />
+    <option testMovie="ExternalPlayer" />
     <option testMovieCommand="" />
   </options>
   <!-- Plugin storage -->
